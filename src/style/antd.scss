@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.ant-btn {
+  margin: 0 8px 12px 0;
+}
+
+::selection {
+  color: #fff;
+  background: #088;
+}
